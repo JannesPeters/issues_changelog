@@ -22,9 +22,9 @@ https://user-images.githubusercontent.com/2196784/155351672-bef9ffbb-b5f6-4946-9
 
 **About GitHub Issues and projects beta**
 
-- [Guide: Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
-- [Documentation: Projects beta](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- [Product Website: GitHub Project planning for developers](https://github.com/features/issues)
+- Guide: [Getting started with project planning on GitHub](https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/)
+- Documentation: [Projects beta](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- Product Website: [GitHub Project planning for developers](https://github.com/features/issues)
 
 --
 
