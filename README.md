@@ -2,7 +2,7 @@
 
 In this repo we are collecting a detailed list of all feature improvements to GitHub issues and projects (beta).
 
-**[Click here to view our changelog](https://github.com/users/JannesPeters/projects/6)**
+**👉 [Click here to view our changelog](https://github.com/users/JannesPeters/projects/6)**
 
 --
 
