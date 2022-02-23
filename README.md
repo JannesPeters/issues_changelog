@@ -1,4 +1,4 @@
-# issues_changelog
+# GitHub issues_changelog
 
 In this repo we are collecting a detailed list of all feature improvements to GitHub issues and projects (beta).
 
