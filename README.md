@@ -36,4 +36,4 @@ https://user-images.githubusercontent.com/2196784/155351672-bef9ffbb-b5f6-4946-9
 --
 
 **Feedback**
-- [Join the discussion](https://github.com/github/feedback/discussions/10915)
+- [Join the discussion](https://github.com/github/feedback/discussions/categories/issues-feedback)
